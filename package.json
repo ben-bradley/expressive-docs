@@ -1,0 +1,11 @@
+{
+  "name": "expressive-docs",
+  "version": "0.0.0",
+  "description": "The easiest way to document your Express-based API",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "author": "Ben Bradley",
+  "license": "MIT"
+}
